@@ -7,16 +7,16 @@ You can return the answer in any order.
 
 ### Example 1:
 ```
-**Input: (bold)** nums = [2,7,11,15], target = 9
-**Output: (bold)** [0,1]
+**Input: ** nums = [2,7,11,15], target = 9
+**Output: ** [0,1]
 ```
 ### Example 2:
 ```
-**Input: (bold)** nums = [3,2,4], target = 6
-**Output: (bold)** [1,2]
+**Input: ** nums = [3,2,4], target = 6
+**Output: ** [1,2]
 ```
 ### Example 3:
 ```
-**Input: (bold)** nums = [3,3], target = 6
-**Output: (bold)** [0,1]
+**Input: ** nums = [3,3], target = 6
+**Output: ** [0,1]
 ```
