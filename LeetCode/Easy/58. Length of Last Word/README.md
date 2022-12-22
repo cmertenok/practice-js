@@ -5,15 +5,15 @@ A **word** is a maximal substring consisting of non-space characters only.
 
 ### Example 1:
 
-**Input:** s = "Hello World"   
+**Input:** s = "Hello World"     
 **Output:** 5
 
 ### Example 2:
 
-**Input:** s = "   fly me   to   the moon  " 
+**Input:** s = "   fly me   to   the moon  "   
 **Output:** 4
 
 ### Example 3:
 
-**Input:** "luffy is still joyboy" 
+**Input:** "luffy is still joyboy"   
 **Output:** 6
